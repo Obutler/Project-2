@@ -1,0 +1,7 @@
+!!! Attempted: p2-vscode-diff.png.   
+Unfortunately, I could not figure out how to locate the p2 files on the source tab even after adding them to git several times. I was unable
+to screen capture the side by side screen of the .gitignore file, so I have listed the repo changes I made to the .gitignore file
+here to prove that I did the commits despite not being able to find the right screen :( !!!
+
+9228745e04d29915f253226f211ddd56684c1508 Ignore .bak files
+a3b2c2e7182f3148a549b0a173304552176f1961 Added
